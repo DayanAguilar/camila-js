@@ -28,6 +28,14 @@ const App = () => {
               lo mejor para mi❤ eres perfecta para mi no lo olvides🥰❤ ay amor
               me traes muy cursi jiji😪 te amoooooo❤
             </p>
+            <br></br>
+            <img src="https://superbwishes.com/wp-content/uploads/2023/01/Feliz-Dia-de-San-Valentin-GIF-7.gif" className="mt-5 " width="300px"></img>
+            <p className="text-center text-red-600">San Valentin</p>
+            <p className="text-center text-red-700"> Amor de mi vida Camilita toda hermosa y preciosa te quiero mucho.
+              En este San Valentin mi primero de mi vida!. jiji que emocion te amo mucho mi vida eres lo mejor
+              que me paso en la vida. Te Amooo te amare por los siglos de los siglos. Espero que sea el primero de muchos
+              eres perfecta nunca lo olvides. Te Amo Camila Silvente Villaroel
+            </p>
           </div>
         </>
       ) : (
